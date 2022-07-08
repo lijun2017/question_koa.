@@ -22,7 +22,7 @@
         "koa2-swagger-ui": "^2.16.0",
         "cross-env": "^7.0.2",
         "log4js": "^6.1.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "mongoose": "^5.8.1",
         "uuid": "^3.3.3"
     },
